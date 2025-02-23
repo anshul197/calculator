@@ -1,1 +1,1 @@
-# this is my calculatoor basic app
+# this is my calculator basic application
